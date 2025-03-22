@@ -1,0 +1,9 @@
+{ 
+"students":[
+    { 
+    "Name": "Ruth Kiptoo",
+    "Email":"ruth@gmail.com",
+    "age": 23
+}
+]
+}
